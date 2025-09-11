@@ -11,10 +11,30 @@
 # [5] Name is Not Like name [ Case Sensitive ]
 # --------------------------------------
 
-name: str = "Osama Elzero"  # Single Word => Normal
-myName: str = "Osama Elzero"  # Two Words => camelCase
-my_name: str = "Osama Elzero"  # Two Words => snake_case
+name: str = "test Vaiables"  # Single Word => Normal
+myName: str = "Vaiables"  # Two Words => camelCase
+my_name: str = "Vaiables"  # Two Words => snake_case
 
 print(name)
 print(myName)
 print(my_name)
+
+
+# ---------------
+# -- Variables --
+# ---------------
+# Source Code : Original Code You Write it in Computer
+# Translation : Converting Source Code Into Machine Language
+# Compilation : Translate Code Before Run Time
+# Run-Time : Period App Take To Executing Commands
+# Interpreted : Code Translated On The Fly During Execution
+# --------------------------------------------------------
+
+# Reserved Words
+help("keywords")
+
+a, b, c = 1, 2, 'Hello world'
+
+print(a)
+print(b)
+print(c)
