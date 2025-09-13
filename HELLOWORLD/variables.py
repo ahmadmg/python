@@ -80,3 +80,27 @@ print("Hello\tPython")
 
 # Character Hex Value
 print("\x4F\x73")
+
+# -------------------
+# -- Concatenation --
+# -------------------
+
+msgC = "I Love"
+lang = "PlayWright"
+print(msgC + " " + lang)
+
+full = msgC + " " + lang
+print(full)
+
+a = "First \
+Second \
+Third"
+
+b = "A \
+B \
+C"
+
+print(a + "\n" + b)
+
+print("Hello " , 1) 
+print("Hello " + 1)  # Error
