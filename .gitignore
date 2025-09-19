@@ -1,1 +1,4 @@
 HELLOWORLD/__pycache__/
+pytest/tests/__pycache__/
+pytest/__pycache__/
+pytest/.pytest_cache/

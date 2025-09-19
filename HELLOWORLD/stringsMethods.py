@@ -223,7 +223,7 @@ print("My Name is %s Iam %s Developer With %d Years Exp" % (n, l, y))
 myNumber = 10
 print("My Number is: %d" % myNumber)
 print("My Number is: %f" % myNumber)
-print("My Number is: %.2f" % myNumber)
+print("My Number is: %.3f" % myNumber)
 
 # Truncate String
 
